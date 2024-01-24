@@ -5,15 +5,12 @@
 <p>Beyond the realm of Tech, I find joy in engaging outdoor activities like badminton and immersing myself in the world of books.</p>
 <p>On Github, I explore the diverse commit and coding styles of fellow enthusiasts, continuously learning from the wealth of knowledge they share.</p>
 
-<a href="www.linkedin.com/in/amritanshuranjan">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
-
 <h3>Langauges and Tools</h3>
-<li>Splunk</li>
-<li>Python</li>
-<li>Linux</li>
-<li>Machine Learning</li>
+<li><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white"></li>
+<li><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></li>
+<li><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></li>
+<li><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></li>
+<li><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"</li>
 <br></br>
 <p>My home lab is a playground for experimentation, and I plan to showcase open projects that delve into the following realms:</p>
 <ul>
@@ -26,5 +23,9 @@
     <li>Scripting in the Shell</li>
 </ul>
 <p>Ultimately, I aim to share my expertise in the vast and exciting world of data.</p>
+<p>You can reach out to me on Linkedin.</p>
+<a href="www.linkedin.com/in/amritanshuranjan">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
 
-
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
