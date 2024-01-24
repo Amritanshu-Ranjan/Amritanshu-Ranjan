@@ -1,77 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Project Name</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
+<h1>Hey Explorer! You've just stumbled upon Amrithub<span class="emoji">🤝</span></h1>
+<h2>About Me</h2>
+<p>Greetings! I'm Amritanshu Ranjan, a passionate Data Engineer. I proudly hold a Bachelor's degree from KIIT University. In my journey, I've also earned an Advanced Certification in Machine Learning and Cloud from IIT Madras through distance learning. 🎓✨</p>
+<p>With over 8 years of expertise, I've journeyed through the landscapes of product and service-based organizations, exploring diverse data types within the Data Analytics domain. Equipped with Splunk, Python, Linux, Shell Scripting, and a toolkit of automation wizardry, I'm determined to eradicate monotony! If it's tedious, consider it automated – that's my guiding principle!😋✨</p>
+<p>Beyond the realm of Tech, I find joy in engaging outdoor activities like badminton and immersing myself in the world of books.</p>
+<p>On Github, I explore the diverse commit and coding styles of fellow enthusiasts, continuously learning from the wealth of knowledge they share.</p>
+<p>My home lab is a playground for experimentation, and I plan to showcase open projects that delve into the following realms:</p>
+<ul>
+    <li>Implementing Machine Learning in Splunk</li>
+    <li>Advanced Playbook Implementation for Splunk SOAR</li>
+    <li>Utilizing Splunk's Advanced Correlation Search for Detection</li>
+    <li>Python Implementation Adventures</li>
+    <li>Creating Custom Splunk Commands</li>
+    <li>Exploring Public Datasets with Python</li>
+    <li>Scripting in the Shell</li>
+</ul>
+<p>Ultimately, I aim to share my expertise in the vast and exciting world of data.</p>
 
-        h1, h2, h3 {
-            color: #0366d6;
-        }
 
-        code {
-            background-color: #f7f7f7;
-            border: 1px solid #e1e4e8;
-            border-radius: 3px;
-            padding: 3px 5px;
-            font-family: 'Courier New', Courier, monospace;
-        }
-
-        a {
-            color: #0366d6;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-
-    <h1>Your Project Name</h1>
-
-    <p>
-        Brief description of your project.
-    </p>
-
-    <h2>Table of Contents</h2>
-    <ul>
-        <li><a href="#installation">Installation</a></li>
-        <li><a href="#usage">Usage</a></li>
-        <li><a href="#contributing">Contributing</a></li>
-        <li><a href="#license">License</a></li>
-    </ul>
-
-    <h2 id="installation">Installation</h2>
-
-    <p>
-        Describe how to install and set up your project.
-    </p>
-
-    <h2 id="usage">Usage</h2>
-
-    <p>
-        Provide examples and instructions on how to use your project.
-    </p>
-
-    <h2 id="contributing">Contributing</h2>
-
-    <p>
-        Explain how others can contribute to your project.
-    </p>
-
-    <h2 id="license">License</h2>
-
-    <p>
-        This project is licensed under the <a href="LICENSE">MIT License</a> - see the <a href="LICENSE">LICENSE</a> file for details.
-    </p>
-
-</body>
-</html>
