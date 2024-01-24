@@ -4,6 +4,17 @@
 <p>With over 8 years of expertise, I've journeyed through the landscapes of product and service-based organizations, exploring diverse data types within the Data Analytics domain. Equipped with Splunk, Python, Linux, Shell Scripting, and a toolkit of automation wizardry, I'm determined to eradicate monotony! If it's tedious, consider it automated – that's my guiding principle!😋✨</p>
 <p>Beyond the realm of Tech, I find joy in engaging outdoor activities like badminton and immersing myself in the world of books.</p>
 <p>On Github, I explore the diverse commit and coding styles of fellow enthusiasts, continuously learning from the wealth of knowledge they share.</p>
+
+<a href="www.linkedin.com/in/amritanshuranjan">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+
+<h3>Langauges and Tools</h3>
+<li>Splunk</li>
+<li>Python</li>
+<li>Linux</li>
+<li>Machine Learning</li>
+<br></br>
 <p>My home lab is a playground for experimentation, and I plan to showcase open projects that delve into the following realms:</p>
 <ul>
     <li>Implementing Machine Learning in Splunk</li>
