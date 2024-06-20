@@ -16,7 +16,7 @@ jobs:
       - name: Update file
         run: |
           # Replace the following command with the one you need to update the file
-          echo "New content" > filename.txt
+          echo "New content" >> filename.txt
 
       - name: Commit and push changes
         run: |
